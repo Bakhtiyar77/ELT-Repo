@@ -4,8 +4,6 @@
 
  SELECT * FROM @MANAGE_DB.external_stages.json_folder;
 
-
-
 // Introduce columns 
 SELECT 
 $1:asin,
